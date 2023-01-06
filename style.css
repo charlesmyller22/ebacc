@@ -1,0 +1,13 @@
+p {
+    display: none;
+}
+
+.invalido {
+    display: block;
+    background-color: red;
+}
+
+.valido {
+    display: block;
+    background-color: green;
+}
